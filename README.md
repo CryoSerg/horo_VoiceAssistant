@@ -1,8 +1,8 @@
-# JARVIS Voice Assistant
+# Horo Voice Assistant
 
 ![We are NOT limited by the technology of our time!](poster.jpg)
 
-`Jarvis` - is a voice assistant made as an experiment using neural networks for things like **STT/TTS/Wake Word/NLU** etc.
+`Horo` - is a voice assistant made as an experiment using neural networks for things like **STT/TTS/Wake Word/NLU** etc.
 
 The main project challenges we try to achieve is:
  - 100% offline *(no cloud)*
@@ -39,7 +39,6 @@ This are the neural networks we are currently using:
 ## Supported Languages
 
 Currently, only Russian language is supported.<br>
-But soon, Ukranian and English will be added for the interface, wake-word detection and speech recognition.
 
 ## How to build?
 
@@ -53,11 +52,8 @@ Or run dev with `cargo tauri dev`.
 
 ## Author
 
-Abraham Tugalov
+Abraham Tugalov (core - Jarvice voice assistant)
 
-## Python version?
-Old version of Jarvis was built with Python.<br>
-The last Python version commit can be found [here](https://github.com/Priler/jarvis/tree/943efbfbdb8aeb5889fa5e2dc7348ca4ea0b81df).
 
 ## License
 
